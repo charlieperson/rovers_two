@@ -1,4 +1,4 @@
-# Mars Rovers
+# Mars Rovers version 2
 
 Robotic rovers are to be landed on a plateau on Mars. This plateau, which is curiously rectangular, must be navigated by the rovers so that their on-board cameras can get a complete view of the surrounding terrain to send back to Earth.
 
